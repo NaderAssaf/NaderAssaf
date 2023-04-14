@@ -6,11 +6,11 @@
 
 
 ### Skills:
-*.Net 
-*c#
-*JS
-*HTML
-*CSS
+* .Net 
+* c#
+* JS
+* HTML
+* CSS
 
 - 🌱 I’m currently learning The ability to work on huge projects with high specifications 
 - 👯 I’m looking to collaborate on making a competitive and exceptional website 
